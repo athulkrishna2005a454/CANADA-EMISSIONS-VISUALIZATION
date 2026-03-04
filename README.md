@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project builds a machine learning model to predict vehicle CO2 emissions using Linear Regression. The goal is to analyze how engine and fuel-related factors influence emission levels and evaluate the predictive performance of a regression model.
+This project builds a machine learning model to predict vehicle CANADA-EMISSIONS-VISUALIZATION. The goal is to analyze how engine and fuel-related factors influence emission levels and evaluate the predictive performance of a regression model.
 
 The project follows a complete machine learning workflow from data preprocessing to model evaluation.
 
